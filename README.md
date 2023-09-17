@@ -1,3 +1,6 @@
 # marquee
 
-<video src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4"></video>
+
+
+https://github.com/soheil/marquee/assets/52513082/f73813c3-1bf2-4a55-80a0-aa2382edc66f
+
