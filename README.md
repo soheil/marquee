@@ -10,7 +10,7 @@ marquee is a macOS utility that transcribes speech to text system-wide. This too
 
 ## Demo
 
-https://github.com/soheil/marquee/assets/52513082/f73813c3-1bf2-4a55-80a0-aa2382edc66f
+https://github.com/soheil/marquee/assets/52513082/c64d42b0-f055-442d-ab65-9bdc6f0e6484
 
 ## Getting Started
 
